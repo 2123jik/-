@@ -128,7 +128,9 @@ public class VertexFormat {
         LINE_STRIP(5, 2, 1, true),     // GL_LINE_STRIP
         DEBUG_LINES(1, 2, 2, false),   // 调试用线
         TRIANGLES(4, 3, 3, false),     // GL_TRIANGLES
-        // ...其他模式
+        TRIANGLE_STRIP(5, 3, 1, true),
+        TRIANGLE_FAN(6, 3, 1, true),
+        QUADS(4, 4, 4, false);
 
         public final int asGLMode;          // OpenGL模式常量
         public final int primitiveLength;   // 基本图元顶点数
