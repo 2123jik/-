@@ -12,7 +12,10 @@ the flower
                 the time,
 the power,
 the mist,
-the storm,
-the float,
+the storm,the float,
 the erase,
+
 the glow,
+the move,
+the fight,
+the loop,
