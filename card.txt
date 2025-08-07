@@ -12,7 +12,7 @@ the flower
                 the time,
 the power,
 the mist,
-the storm,the float,
+the storm;the float,
 the erase,
 
 the glow,
@@ -28,8 +28,17 @@ the return,
 the shot,
 the sweet,
 the dash,
-the big,the create,
+the big;the create,
 the change,
 the freeze,
 
-the
+the firey,
+the snow, 
+the voice,
+the lock,
+the cloud,
+the dream,
+the sand,
+
+
+the arrow
