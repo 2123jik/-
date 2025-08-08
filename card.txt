@@ -1,44 +1,46 @@
-the windy,
-the fly,
-the shadow,
-the watery,
-the wood,
-the rain,
-the jump,
-the illusion,
-the thunder,
-the sword,
+the windy;
+the fly;
+the shadow;
+the watery;
+the wood;
+the rain;
+the jump;
+the illusion;
+the thunder;
+the sword;
 the flower
-                the time,
-the power,
-the mist,
-the storm;the float,
-the erase,
+                the time;
+the power;
+the mist;
+the storm,the float;
+the erase;
 
-the glow,
-the move,
-the fight,
-the loop,
-the sleep,
-the song,
-the little,
-the mirror,
-the maze,
-the return,
-the shot,
-the sweet,
-the dash,
-the big;the create,
-the change,
-the freeze,
+the glow;
+the move;
+the fight;
+the loop;
+the sleep;
+the song;
+the little;
+the mirror;
+the maze;
+the return;
+the shot;
+the sweet;
+the dash;
+the big,the create;
+the change;
+the freeze;
 
-the firey,
-the snow, 
-the voice,
-the lock,
-the cloud,
-the dream,
-the sand,
-
+the firey;
+the snow;
+the voice;
+the lock;
+the cloud;
+the dream;
+the sand;
+the dark,the light;
+the twin;
+the earthy;
 
 the arrow
