@@ -33,6 +33,7 @@ the change;
 the freeze;
 
 the firey;
+the arrow
 the snow;
 the voice;
 the lock;
@@ -43,4 +44,4 @@ the dark,the light;
 the twin;
 the earthy;
 
-the arrow
+
