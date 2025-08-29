@@ -2981,6 +2981,8 @@ texture images in Chapter 5. Another important buffer that we will study further
 buffer (or Z-buffer). This will become important when we study shadows in Chapter 8. We
 still have much to learn about managing graphics data in OpenGL!
 Exercises
+
+
 4.1 (PROJECT) Modify Program 4.1 to replace the cube with some other simple 3D shape
 of your own design. Be sure to properly specify the number of vertices in the
 glDrawArrays() command.
@@ -6816,7 +6818,7 @@ Texturing + normal mapping w/AF.
 The results are imperfect. Shadows appearing in the original texture image will still show
 on the rendered result, regardless of lighting. Also, while normal mapping can affect diffuse
 and specular effects, it cannot cast shadows. Therefore, this method is best used when the
-surface features are small.
+surface features are small.====
 10.3 HEIGHT MAPPING
 We now extend the concept of normal mapping—where a texture image is used to perturb
 normals—to instead perturb the vertex locations themselves. Actually modifying an object’s
